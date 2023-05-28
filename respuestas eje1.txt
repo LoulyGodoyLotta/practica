@@ -1,0 +1,19 @@
+1) pwd
+
+2) ls
+
+3) ls -l
+
+4) ls -sh
+
+5) ls -sh > main.sh
+
+6) ls -l main.sh
+
+7) mkdir ejercicio1 y cd ejercicio1
+
+8) ps
+
+9) ps -e > archivoproceso.txt
+
+10) ls > mis_archivos.txt 
